@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/oldhacfard/The-script/refs/heads/main/Reanimate.luau"))()
+
 --[[Modified by Citrus for Majora]]--
 
 -- New Q move (When charge reaches 100)
